@@ -1,0 +1,27 @@
+body {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.tableList {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  width: 60vw;
+}
+
+.tableList_buttons_div {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.bold {
+  font-weight: 600;
+}
+
+.tableList_detail_div {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
